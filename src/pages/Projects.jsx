@@ -1,12 +1,23 @@
 import { Link } from "react-router-dom";
 
+import "../styles/components/projects.sass";
+
 const Projects = () => {
   return (
-    <div>
-      <h2>Página em Construção</h2>
-      <br />
-      <Link to="/">Voltar</Link>
-    </div>
+    <>
+      <h1>Projetos</h1>
+      <main id="projects-container">
+        <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum
+          quaerat praesentium cum officia id vero, possimus sapiente? Ipsa amet
+          perspiciatis blanditiis itaque quis, facilis obcaecati in illo
+          sapiente modi tempore!
+        </p>
+      </main>
+      <Link to="/" className="btn">
+        Voltar
+      </Link>
+    </>
   );
 };
 

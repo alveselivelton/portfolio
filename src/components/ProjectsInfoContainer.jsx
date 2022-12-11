@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const ProjectsContainer = () => {
   return (
-    <section className="projects-container">
+    <section className="projects-info-container">
       <h2>Projetos</h2>
       <p>
         Durante toda a execução dos cursos que fiz, tive a oportunidade de
