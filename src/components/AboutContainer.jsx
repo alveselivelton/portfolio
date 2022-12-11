@@ -9,13 +9,13 @@ const AboutContainer = () => {
         Desenvolvedor Front-end.
       </p>
       <p>
-        Meus principas hobbies sempre foram a prática de atividades físicas, mas
-        hoje, posso afirmar que passar horas codando se tornou tão bom quanto.
-        Espero poder transformar esse novo hobbie em uma carreira profissional,
-        visando sempre contribuir da melhor forma possível na evolução da
-        empresa, além de poder absorver ao máximo toda a experiência do convívio
-        com os colegas mais experientes, a fim de evoluir cada vez mais como
-        programador.
+        Meus principais hobbies sempre foram a prática de atividades físicas,
+        mas hoje, posso afirmar que passar horas codando se tornou tão bom
+        quanto. Espero transformar esse novo hobbie em uma carreira
+        profissional, visando sempre contribuir da melhor forma possível na
+        evolução da empresa, além de absorver ao máximo toda a experiência
+        adquirida através do convívio com outros programadores, a fim de me
+        tornar um profissional cada vez melhor.
       </p>
     </section>
   );
