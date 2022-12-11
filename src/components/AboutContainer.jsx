@@ -3,7 +3,7 @@ const AboutContainer = () => {
     <section className="about-container">
       <h2>Sobre</h2>
       <p>
-        Uma simples indrodução ao famoso "Hello World", foi mais que o
+        Uma simples introdução ao famoso "Hello World", foi mais que o
         suficiente para despertar em mim o interesse pela programação, e desde
         então, venho estudando as principais tecnologias com foco na carreira de
         Desenvolvedor Front-end.
