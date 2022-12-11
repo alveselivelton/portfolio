@@ -5,10 +5,11 @@ const ProjectsContainer = () => {
     <section className="projects-container">
       <h2>Projetos</h2>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum,
-        corrupti quia consectetur, eligendi sint impedit quidem, accusamus
-        sapiente totam possimus quas voluptatem! Inventore, consectetur laborum
-        perspiciatis earum est sint deleniti!
+        Durante toda a execução dos cursos que fiz, tive a oportunidade de
+        construir alguns projetos ministrados pelo professor, sempre buscando
+        alterar ou adicionar algum recurso para torná-lo mais pessoal, assim
+        como também pude desenvolever os meus própios projetos à medida que ia
+        adquirindo mais comhecimento.
       </p>
       <Link to="/projects" className="btn">
         Ver Projetos

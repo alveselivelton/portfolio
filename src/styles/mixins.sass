@@ -8,12 +8,23 @@
 @mixin btn
   padding: 1rem 1.2rem
   color: variables.$text-color
-  background: variables.$gradient
+  background: variables.$button-background
   text-decoration: none
   border-radius: 3rem
+  border: 1px solid transparent
+  transition: .3s
+
+  &:hover
+    background-color: transparent
+    border: 1px solid variables.$button-background
+    color: variables.$button-background
 
 @mixin gradient-border
   content: ""
   background: variables.$gradient
   height: 3px
   width: 30%
+
+@mixin mobile
+  @media (max-width: 460px)
+    @content
