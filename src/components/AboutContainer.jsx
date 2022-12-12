@@ -6,7 +6,7 @@ const AboutContainer = () => {
         Uma simples introdução ao famoso "Hello World", foi mais que o
         suficiente para despertar em mim o interesse pela programação, e desde
         então, venho estudando as principais tecnologias com foco na carreira de
-        Desenvolvedor Front-end.
+        Desenvolvimento Front-End.
       </p>
       <p>
         Meus principais hobbies sempre foram a prática de atividades físicas,
